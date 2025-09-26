@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 앱 제목 설정
-st.title("📱 디지털 계산기 (수정版)")
+st.title("📱 디지털 계산기 ")
 
 # st.session_state 초기화
 if 'expression' not in st.session_state:
